@@ -1,5 +1,7 @@
 # 🪪 Profile
+
 __`NAME`__ Baek Seungwoo / BMAIL  
+__`FROM`__ South Korea 🇰🇷
 
 - - -
 # 🛠 Tools
@@ -18,5 +20,6 @@ __`NAME`__ Baek Seungwoo / BMAIL
 
 - - -
 # 📊 Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=b-mail&show_icons=true&theme=react)
 

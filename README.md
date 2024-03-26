@@ -18,6 +18,7 @@ __`FROM`__ South Korea 🇰🇷
 
 ### Library & Framework
 >![React](https://img.shields.io/badge/React-00CCC7?style=flat&logo=react&logoColor=white)
+>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 - - -
 # 📊 Stats

@@ -14,7 +14,8 @@ __`FROM`__ South Korea 🇰🇷
 
 ### Language
 >![Java](https://img.shields.io/badge/Java-F80000?style=flat&logo=oracle&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-CCA901?style=flat&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white)
 
 ### Library & Framework
 >![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)

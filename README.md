@@ -22,11 +22,12 @@
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-00CCC7?style=flat&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-072F56?style=flat&logo=prisma&logoColor=white)
+![React Query](https://img.shields.io/badge/ReactQuery-FF4154?style=flat&logo=reactquery&logoColor=white)
 
 ### Database
 >![MySQL](https://img.shields.io/badge/MySQL-C7A726?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E507A?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-072F56?style=flat&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-10C74C?style=flat&logo=mongodb&logoColor=white)
 
 - - -
